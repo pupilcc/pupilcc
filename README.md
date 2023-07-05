@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there <sup>👋</sup>  
 
-<!--
-**pupilcc/pupilcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **_pupilcc_**.  
 
-Here are some ideas to get you started:
+I'm a:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-end Developer <sup>💻</sup>   
+
+My blog: [https://blog.pupilcc.com](https://blog.pupilcc.com)
+
+## Some of my projects:
+
+- pushbot: https://github.com/pupilcc/pushbot
+  > 基于 Telegram Bot 的消息推送 bot
+
+- SM.MS API for Java: https://github.com/pupilcc/smms
+  > sm.ms 图床 API 的 Java 工具库
