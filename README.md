@@ -1,17 +1,15 @@
 ### Hi there <sup>👋</sup>  
 
-My name is **_pupilcc_**.  
+My name is **_Yu_**.  
 
-I'm a:  
+I'm a:
 
 - Back-end Developer <sup>💻</sup>   
+- based in China <sup>🇨🇳</sup>
 
 My blog: [https://blog.pupilcc.com](https://blog.pupilcc.com)
 
-## Some of my projects:
+## Some of my projects
 
-- pushbot: https://github.com/pupilcc/pushbot
-  > 基于 Telegram Bot 的消息推送 bot
-
-- SM.MS API for Java: https://github.com/pupilcc/smms
-  > sm.ms 图床 API 的 Java 工具库
+- [pushbot](https://github.com/pupilcc/pushbot): Message push on Telegram Bot
+- [smms](https://github.com/pupilcc/smms): SM.MS API for Java
