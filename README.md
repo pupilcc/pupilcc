@@ -11,7 +11,7 @@ My blog: [https://blog.pupilcc.com](https://blog.pupilcc.com)
 
 ### 🧰 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,react,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,react,remix,vite,docker&perline=10)](https://skillicons.dev)
 
 ### Some of my projects
 
