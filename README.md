@@ -8,7 +8,7 @@
 
 ## 🧰 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,react,remix,vite,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,java,ts,js,react,remix,vite,docker&perline=10)](https://skillicons.dev)
 
 ## Some of my projects
 
