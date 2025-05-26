@@ -1,6 +1,6 @@
 ## About Me
 
-* **Name:** Anthony
+* **Name:** Edward
 * **Role:** Backend Engineer
 * **Location:** China
 * **Twitter:** [@pupilccg](https://x.com/pupilccg)
