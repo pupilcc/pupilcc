@@ -2,7 +2,6 @@
 
 * **Name:** Edward
 * **Role:** Backend Engineer
-* **Location:** China
 * **Twitter:** [@pupilccg](https://x.com/pupilccg)
 * **Blog:** [https://blog.pupilcc.com](https://blog.pupilcc.com)
 
